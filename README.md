@@ -1,6 +1,6 @@
 # Global-Commerce-EDA
 
-# 📊 Global Commerce store Descriptive
+# 📊 Global Commerce Store Descriptive
 
 A comprehensive Business Intelligence (BI) and Descriptive Analytics project leveraging the Global Superstore Sales Dataset. This project uncovers key sales, profit, and shipping insights that could guide strategic decision-making in a retail context.
 
